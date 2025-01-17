@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project is to investigate whether the outcomes of traffic stops (such as warnings, citations, or arrests) differ significantly based on the type of violation and demographic characteristics of the individuals involved.
+The goal of this project is to investigate whether the outcomes of traffic stops (such as warnings, citations, or arrests) differ significantly based on the type of violation and demographic characteristics of the individuals involved. The analysis includes data cleaning, visualization, and statistical testing to identify any significant differences in outcomes based on race, gender, and age.
 
 ## Data Source
 
